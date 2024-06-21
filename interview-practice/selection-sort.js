@@ -11,7 +11,6 @@ function selectionSort(arr) {
         minIndex = j;
       }
     }
-
     if (arr[i] !== arr[minIndex]) {
       [arr[i], arr[minIndex]] = [arr[minIndex], arr[i]];
     }

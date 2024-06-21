@@ -20,4 +20,4 @@ function insertionSort(arr) {
   return arr
 }
 
-console.log(insertionSort([24, 1, 6, 37, 56, 25]));
+console.log(insertionSort([24,'boy','dog', 1, 6, 37, 56, 25]));
